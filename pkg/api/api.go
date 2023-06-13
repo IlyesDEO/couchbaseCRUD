@@ -1,8 +1,8 @@
 package api
 
 import (
+	contactHandler "github.com/IlyesDEO/goCrud/pkg/handlers/contact"
 	"github.com/gin-gonic/gin"
-	contactHandler "github.com/kilianp07/CassandraCRUD/pkg/handlers/contact"
 )
 
 func Start() {

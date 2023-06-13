@@ -3,8 +3,8 @@ package contactHandler
 import (
 	"net/http"
 
+	contactRepo "github.com/IlyesDEO/goCrud/pkg/repositories/contact"
 	"github.com/gin-gonic/gin"
-	contactRepo "github.com/kilianp07/CassandraCRUD/pkg/repositories/contact"
 	"github.com/kilianp07/CassandraCRUD/utils/structs"
 )
 
