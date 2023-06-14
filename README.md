@@ -1,4 +1,4 @@
-# Cassandra CRUD 
+# Couchbase CRUD 
 ## Installation
 ### Apple Silicon 
 1. Install Docker
